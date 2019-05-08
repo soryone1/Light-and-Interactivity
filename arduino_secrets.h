@@ -1,0 +1,5 @@
+#define SECRET_SSID "王睿的 iPhone 8" 
+#define SECRET_PASS "Sorry1029"
+//#define SECRET_SSID "NOT AN IPHONE" 
+//#define SECRET_PASS "12344321"
+#define SECRET_APIKEY "a27b06252b2a62ebfa08378584208271"
